@@ -1,3 +1,3 @@
-#setup
-#run script on terminal
+#setup/run script on terminal
+
 1.ruby barcode.rb
